@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "b6b28430baa7a9becf3035bf",
+  "owner": "pmfqkkpsu",
+  "repo": "page-cdb6260197106c3dcad1154b",
+  "title": "BosLife",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cdb6260197106c3dcad1154b",
+      "a": "BosLife",
+      "b": "",
+      "entity": "BosLife",
+      "brand": "BosLife",
+      "separator": "",
+      "path": "index.html",
+      "hash": "40565ec390438e61284267f1f3f8bb1e2992de3bed381be103307bae98b21788",
+      "content": {
+        "keyword1": "BosLife",
+        "keyword2": "",
+        "primary_entity": "BosLife",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "BosLife 希望成为你日常生活里那个靠谱的朋友，把复杂的网络连接这件小事，变得简单又安心。",
+          "AI_DESCRIPTION": "BosLife 希望成为你日常生活里那个靠谱的朋友，把复杂的网络连接这件小事，变得简单又安心。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{\n  --bg:#f3f3f6;\n  --ink:#1a1a24;\n  --accent:#7b3ff2;\n  --accent-soft:#ede3ff;\n  --border:#1a1a24;\n}\n*{box-sizing:border-box}\nbody{\n  margin:0;\n  background:var(--bg);\n  color:var(--ink);\n  font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;\n  line-height:1.6;\n}\n.layout{\n  display:grid;\n  grid-template-columns:220px 1fr;\n  min-height:100vh;\n}\nnav.sidenav{\n  position:sticky;\n  top:0;\n  height:100vh;\n  border-right:2px solid var(--ink);\n  padding:24px 20px;\n  background:var(--bg);\n}\nnav.sidenav .brand{\n  font-weight:800;\n  font-size:20px;\n  margin-bottom:28px;\n  border:2px solid var(--ink);\n  padding:8px 12px;\n}\nnav.sidenav ul{\n  list-style:none;\n  padding:0;\n  margin:0;\n}\nnav.sidenav li{\n  margin:14px 0;\n}\nnav.sidenav a{\n  color:var(--ink);\n  text-decoration:none;\n  font-size:15px;\n}\nnav.sidenav a:hover{\n  color:var(--accent);\n}\nmain{\n  padding:0;\n}\nsection{\n  padding:48px 40px;\n  border-bottom:2px solid var(--ink);\n}\n.hero{\n  padding:0;\n}\n.band{\n  border-bottom:2px solid var(--ink);\n}\n.band-1{\n  background:var(--accent);\n  color:#fff;\n  padding:18px 40px;\n  font-size:14px;\n  letter-spacing:0.2em;\n}\n.band-2{\n  padding:80px 40px 60px;\n}\n.band-2 h1{\n  font-size:64px;\n  line-height:1.1;\n  margin:0 0 24px;\n  font-weight:900;\n}\n.band-2 p{\n  font-size:20px;\n  max-width:640px;\n  margin:0;\n}\n.band-3{\n  background:var(--accent-soft);\n  padding:40px;\n  display:flex;\n  gap:40px;\n  flex-wrap:wrap;\n}\n.band-3 .chip{\n  border:2px solid var(--ink);\n  background:var(--bg);\n  padding:12px 18px;\n  font-weight:700;\n}\nh2{\n  font-size:32px;\n  margin:0 0 28px;\n  font-weight:800;\n}\n.card{\n  border:2px solid var(--ink);\n  padding:24px;\n  background:var(--bg);\n  margin-bottom:20px;\n}\n.plan{\n  border:2px solid var(--ink);\n  padding:32px;\n  background:var(--bg);\n  margin-bottom:28px;\n}\n.plan.featured{\n  background:var(--accent-soft);\n  border-width:3px;\n}\n.plan h3{\n  font-size:24px;\n  margin:0 0 8px;\n}\n.plan .price{\n  font-size:28px;\n  font-weight:900;\n  margin:12px 0;\n}\n.plan .annual{\n  color:var(--accent);\n  font-weight:700;\n  margin-bottom:16px;\n}\n.plan ul{\n  padding-left:20px;\n  margin:0;\n}\n.plan li{\n  margin:8px 0;\n}\ndetails{\n  border:2px solid var(--ink);\n  padding:18px 20px;\n  margin-bottom:14px;\n  background:var(--bg);\n}\nsummary{\n  cursor:pointer;\n  font-weight:700;\n  font-size:17px;\n}\ndetails p{\n  margin:12px 0 0;\n}\n.client-list{\n  display:grid;\n  gap:18px;\n}\nfooter{\n  padding:32px 40px;\n  border-top:2px solid var(--ink);\n  font-size:14px;\n}\n@media (max-width:760px){\n  .layout{grid-template-columns:1fr}\n  nav.sidenav{\n    position:static;\n    height:auto;\n    border-right:none;\n    border-bottom:2px solid var(--ink);\n  }\n  .band-2 h1{font-size:40px}\n  section{padding:32px 20px}\n}\n</style><div class=\"layout\">\n<nav class=\"sidenav\">\n  <div class=\"brand\">BosLife</div>\n  <ul>\n    <li><a href=\"#intro\">聊聊 BosLife</a></li>\n    <li><a href=\"#plans\">看看套餐</a></li>\n    <li><a href=\"#clients\">用什么连</a></li>\n    <li><a href=\"#guide\">怎么开始</a></li>\n    <li><a href=\"#faq\">常见问题</a></li>\n  </ul>\n</nav>\n<main>\n<section class=\"hero\" id=\"top\">\n  <div class=\"band band-1\">BOSLIFE · 和你一起过更顺的网络生活</div>\n  <div class=\"band band-2\">\n    <h1>BosLife，<br>把上网这件小事变简单</h1>\n    <p>嘿，我们懂那种刷不出页面的焦躁感。BosLife 想做的，就是让你少花点心思在网络连接上，多留点时间给自己喜欢的事。</p>\n  </div>\n  <div class=\"band band-3\">\n    <div class=\"chip\">不绕弯子</div>\n    <div class=\"chip\">先试再买</div>\n    <div class=\"chip\">说人话的客服</div>\n  </div>\n</section>\n\n<section id=\"intro\">\n  <h2>我们想成为那种朋友</h2>\n  <div class=\"card\">\n    <p>有些工具喜欢把自己说得很厉害，但用起来总让人摸不着头脑。BosLife 走的是另一条路：先把体验做顺，再聊聊钱的事。我们希望你在用的过程中，不必去想\"这个按钮到底什么意思\"，也不必在出问题时对着机器人客服干瞪眼。</p>\n  </div>\n  <div class=\"card\">\n    <p>所以 BosLife 的几个原则很简单：套餐写清楚多少钱、流量给多少就多少；出问题找得到人；不搞花里胡哨的弹窗和捆绑。你就安安心心上网，剩下的我们来兜底。</p>\n  </div>\n</section>\n\n<section id=\"plans\">\n  <h2>挑一个合适的就行</h2>\n\n  <div class=\"plan\">\n    <h3>基础版</h3>\n    <p>适合平时偶尔上网看看视频、刷刷资讯的你。</p>\n    <div class=\"price\">¥15 / 月</div>\n    <div class=\"annual\">按年付仅需 ¥150 / 年</div>\n    <ul>\n      <li>每月 100GB 极速流量</li>\n      <li>支持 3 台设备同时在线</li>\n      <li>解锁基础流媒体</li>\n      <li>普通线路节点池</li>\n    </ul>\n  </div>\n\n  <div class=\"plan featured\">\n    <h3>旗舰版 · 大家选得最多的</h3>\n    <p>如果你每天都要追剧、打游戏，又不想在关键时刻掉链子，选这个准没错。</p>\n    <div class=\"price\">¥35 / 月</div>\n    <div class=\"annual\">按年付仅需 ¥350 / 年</div>\n    <ul>\n      <li>每月 300GB 极速流量</li>\n      <li>支持 5 台设备同时在线</li>\n      <li>全节点原生流媒体解锁</li>\n      <li>IPLC 专线游戏加速优化</li>\n      <li>7x24 优先工单支持</li>\n    </ul>\n  </div>\n\n  <div class=\"plan\">\n    <h3>团队版</h3>\n    <p>几个人一起用，或者公司小团队搭个稳定的网络环境。</p>\n    <div class=\"price\">¥85 / 月</div>\n    <div class=\"annual\">按年付仅需 ¥850 / 年</div>\n    <ul>\n      <li>每月 1000GB 极速流量</li>\n      <li>支持 20 台设备同时在线</li>\n      <li>VIP 专属高带宽节点</li>\n      <li>支持企业定制路由</li>\n      <li>专属客户经理服务</li>\n    </ul>\n  </div>\n</section>\n\n<section id=\"clients\">\n  <h2>用什么软件连进来</h2>\n  <p>BosLife 没有自己单独的客户端软件，你可以用手里熟悉的工具接入。下面这些是比较常见的选择。</p>\n  <div class=\"client-list\">\n    <div class=\"card\">\n      <h3>Windows / macOS</h3>\n      <p>推荐使用 Clash Verge、v2rayN 等通用客户端。这些软件都是开源工具，免费下载，配置时把 BosLife 提供的订阅链接填进去就行。</p>\n    </div>\n    <div class=\"card\">\n      <h3>iOS / Android</h3>\n      <p>手机端可以使用 Shadowrocket、Clash Meta 等应用。安装完成后，复制订阅链接打开 App 即可自动导入节点。</p>\n    </div>\n    <div class=\"card\">\n      <h3>路由器 / 软路由</h3>\n      <p>家里有 OpenWrt 或软路由设备的，可以配合 OpenClash 使用，做到全屋网络统一走 BosLife。</p>\n    </div>\n  </div>\n</section>\n\n<section id=\"guide\">\n  <h2>几分钟就能开始用</h2>\n  <div class=\"card\">\n    <p><strong>第一步：</strong>选一个适合自己的套餐，完成注册。我们会把订阅链接发到你的账户后台。</p>\n  </div>\n  <div class=\"card\">\n    <p><strong>第二步：</strong>下载一个好用的客户端，具体可以参考上一节的推荐。</p>\n  </div>\n  <div class=\"card\">\n    <p><strong>第三步：</strong>把订阅链接粘进客户端，等它自动拉取节点，挑一个顺眼的连上去就好。</p>\n  </div>\n  <div class=\"card\">\n    <p><strong>第四步：</strong>连上以后打开任意网站试试，如果觉得速度不理想，换一个节点再试。实在搞不定，发条工单给我们。</p>\n  </div>\n</section>\n\n<section id=\"faq\">\n  <h2>常见问题</h2>\n  <details>\n    <summary>新用户第一次用 BosLife，从哪里开始？</summary>\n    <p>别紧张，就三步：先注册账号，再拿到订阅链接，最后把链接丢进客户端里。整个流程不会超过五分钟，比泡杯面还快。</p>\n  </details>\n  <details>\n    <summary>流量用完了会怎样？还能继续上网吗？</summary>\n    <p>流量用完后当月会暂停服务，不用担心被偷偷扣钱。你可以等下个月自动恢复，也可以单独买加流量的包，随你喜欢。</p>\n  </details>\n  <details>\n    <summary>如果我觉得不好用，能退款吗？</summary>\n    <p>我们建议你先了解清楚再下单。购买后如果遇到技术问题，优先联系客服一起解决；确实用不上的情况，具体退款政策以购买页说明为准。</p>\n  </details>\n  <details>\n    <summary>一个账号能在手机和电脑上同时用吗？</summary>\n    <p>可以的，每个套餐都有对应的设备数量限制。基础版 3 台，旗舰版 5 台，团队版 20 台。只要不超过上限，手机、电脑、平板随便切换。</p>\n  </details>\n  <details>\n    <summary>遇到连不上的节点怎么办？</summary>\n    <p>先换几个其他节点试试，有时候只是个别线路在维护。如果所有节点都连不上，把客户端报错截图发给客服，我们会帮你看看具体哪里卡住了。</p>\n  </details>\n  <details>\n    <summary>支持哪些付款方式？</summary>\n    <p>目前支持常见的扫码支付和银行卡支付。具体方式会在结账页面列出，你按自己顺手的选择就行。</p>\n  </details>\n</section>\n\n<footer>\n  <p>© BosLife · 希望能在你的日常生活里帮上一点小忙</p>\n</footer>\n</main>\n</div>",
+          "hash": "dfc98ff1e4172fc22c54556e464a3d0cf2c9f5fc3a5ff59f328cf9591642cdaa",
+          "seo": {
+            "title": "BosLife - 让你的网络生活更轻松一点",
+            "keywords": "BosLife,网络服务,套餐,客户端,常见问题",
+            "description": "BosLife 希望成为你日常生活里那个靠谱的朋友，把复杂的网络连接这件小事，变得简单又安心。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "5623",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "4 浅灰配电光紫",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ijtwjvw.cn",
+    "host": "p-18520431ed.ijtwjvw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e7df47ed1dd5f3b9144228f8faa045e92c94992cbbf61a2650ee0590e31a76c7",
+    "sitemap.xml": "deffb78fd21bea26a2fa62c7500da1bafbd26404321bfe441ab2d2774cdf5035",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "269db891efd97cd549c6ebb2592047f11bcc6dc30a2675015c45e9cbb8fc81e0",
+    "robots.txt": "691e10ae3dc915a7c18c5a5a06099255a7880d0fd23e8123e55d116ca39d2f55",
+    "b18c31d9d2d7167bd41d8512d821b3db.txt": "5e3a9370bdb34842de27580649d0aab795cff276ad5c246d6daed5c1556dfcdb"
+  },
+  "revision": "50c09f22032420099accec27aef2009c8019a2430c77a8466a2b852260580b58"
+}
